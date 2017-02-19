@@ -3,20 +3,19 @@
     "description": "Pure CSS for Yii2",
 	"keywords": ["yii2", "php"],
     "type": "yii2-extension",
-    "require": {
-        "yiisoft/yii2": "*"
-    },
-    "license": "BSD",
+	"license": "BSD-2-Clause",
     "authors": [
         {
             "name": "Reina Sison",
             "email": "reawakened.phoenix@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-	"require": {
-		"php": ">=5.6.0"
-	},
+	"minimum-stability": "stable",
+    "require": {
+		"php": ">=5.6.0",
+        "yiisoft/yii2": "~2.0.6",
+		"yahoo/purecss": "^0.6.2"
+    },
 	"autoload": {
 		"psr-4": {
 			"Reine\\PureCSS": "src"
