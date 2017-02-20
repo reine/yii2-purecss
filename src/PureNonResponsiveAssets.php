@@ -1,6 +1,6 @@
 <?php
 
-namespace Reine\PureCSS
+namespace Reine\PureCSS;
 
 use yii\web\AssetBundle;
 
