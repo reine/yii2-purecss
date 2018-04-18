@@ -12,8 +12,8 @@
     ],
 	"minimum-stability": "stable",
     "require": {
-		"php": ">=5.6.0",
-        "yiisoft/yii2": "~2.0.6",
+		"php": ">=7.1.0",
+		"yiisoft/yii2": "~2.0.13",
 		"yahoo/purecss": "^0.6.2"
     },
 	"autoload": {
