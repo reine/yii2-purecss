@@ -14,7 +14,7 @@
 	"require": {
 		"php": ">=7.1.0",
 		"yiisoft/yii2": "~2.0.13",
-		"yahoo/purecss": "^0.6.2"
+		"pure-css/pure/": "~1.0.0"
 	},
 	"autoload": {
 		"psr-4": {
