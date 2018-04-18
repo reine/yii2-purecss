@@ -1,21 +1,21 @@
 {
-    "name": "reine/yii2-purecss",
-    "description": "Pure CSS for Yii2",
+	"name": "reine/yii2-purecss",
+	"description": "Pure CSS for Yii2",
 	"keywords": ["yii2", "php"],
-    "type": "yii2-extension",
+	"type": "yii2-extension",
 	"license": "BSD-2-Clause",
-    "authors": [
-        {
-            "name": "Reina Sison",
-            "email": "reawakened.phoenix@gmail.com"
-        }
-    ],
+	"authors": [
+		{
+			"name": "Reina Sison",
+			"email": "reawakened.phoenix@gmail.com"
+		}
+	],
 	"minimum-stability": "stable",
-    "require": {
+	"require": {
 		"php": ">=7.1.0",
 		"yiisoft/yii2": "~2.0.13",
 		"yahoo/purecss": "^0.6.2"
-    },
+	},
 	"autoload": {
 		"psr-4": {
 			"Reine\\PureCSS\\": "src"
